@@ -1,7 +1,5 @@
 # API Keys
 .env
-groq_api_keys(project_.txt)
-
 
 # Python
 __pycache__/
