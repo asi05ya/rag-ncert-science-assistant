@@ -5,4 +5,3 @@ groq
 python-dotenv
 numpy
 pdfplumber
-pickle5
