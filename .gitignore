@@ -1,0 +1,13 @@
+# API Keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Whisper folder
+whisper/
